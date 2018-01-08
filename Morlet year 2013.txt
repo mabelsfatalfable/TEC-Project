@@ -1,0 +1,2 @@
+Morlet wavelet periodograms of critical frequency of F2 layer (f0F2) in full-year 2013.
+Red line represents the smooth curve of the black line that Savitzky-Golay filter implemented on.

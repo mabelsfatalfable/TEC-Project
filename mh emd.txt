@@ -1,0 +1,2 @@
+Empirical mode decomposition
+Intermediate frequency components of Marginal Hilbert Transform of f0F2 (critical frequency of F2 layer) native signal received for the May 2014 until earthquake struck in and the denoised signal with Savitzky-Golay filter is implemented on. Empirical mode decomposition (EMD) technique is used. Ref: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.1418&rep=rep1&type=pdf

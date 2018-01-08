@@ -1,0 +1,6 @@
+Lomb-Scargle Periodograms for May 2014
+Graphs are generated for 2014-05 dated vertical total electron content (aTEC) time series.
+1st peak occurs at period 359.84 or frequency 0.002779 with normalized power that equals to 2796 aTEC^2 for 4-minutely sampled timeseries.
+Vertical radar measurements were saved as 4 minutely intervals back in the time and one day approximately has 360 samples per data request from the server. If we multiply the period by *4 we will get the value 1440 which represents one day or 24 hours in minutes.
+2nd peak occurs at around period 180*4 =~ 720 minutes =~ 12 hours, with a normalised power value that is nearly 150 aTEC^2.
+And the 3rd peak occurs at period 120*4 =~ 480 minutes =~ 8 hours, with a normalised power value that is nearly 10 aTEC^2.

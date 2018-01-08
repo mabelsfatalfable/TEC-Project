@@ -1,0 +1,1 @@
+Detection and statistical analysis of travelling ionospheric disturbances (TIDs) and gravitational waves that are associated with geomagnetic storms, earthquakes or other perturbations will be analysed by HF radar measurements as for each ionospheric layers and spacecraft total electron content data.
